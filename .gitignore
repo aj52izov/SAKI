@@ -7,3 +7,11 @@
 /homework-1/Repport/confusion_matrix.png
 /homework-1/Repport/imbalanced.png
 /homework-1/Repport/training-testing.png
+/.idea/.gitignore
+/.idea/SAKI.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/homework-1/__pycache__/preprocessing.cpython-38.pyc
+/homework-1/__pycache__/pipeline.cpython-38.pyc
